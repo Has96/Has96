@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Has96
-- 👀 I’m interested in hackeng 'n'programming
+- 👀 I’m interested in hacking 'n'programming
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ➩ t.me/Hassan_Ahmed_H
